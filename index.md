@@ -6,4 +6,4 @@ Covers all technical guides relating to software engineering.
 
 | Language | Guide |
 |---|---|
-| JavaScript | https://github.com/gregory-james-smith/javascript-notes |
+| JavaScript | [https://github.com/gregory-james-smith/javascript-notes](javascript-notes) |
